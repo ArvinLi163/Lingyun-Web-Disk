@@ -4,7 +4,7 @@ import com.seven.cn.springboot_project.entity.User;
 
 /**
  * @description:
- * @author: bansheng
+ * @author: ArvinLi
  * @date: 2023/03/30 14:23
  **/
 public interface UserService {

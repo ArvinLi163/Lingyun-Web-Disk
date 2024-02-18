@@ -10,7 +10,7 @@ import java.io.IOException;
 
 /**
  * @description:hdfs api调用的工具类
- * @author: bansheng
+ * @author: ArvinLi
  * @date: 2023/04/07 16:04
  **/
 @Component

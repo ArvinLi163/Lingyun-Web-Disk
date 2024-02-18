@@ -7,7 +7,7 @@ import java.util.Date;
 
 /**
  * @description:对时间进行格式化的工具类
- * @author: bansheng
+ * @author: ArvinLi
  * @date: 2023/04/07 17:21
  **/
 @Component

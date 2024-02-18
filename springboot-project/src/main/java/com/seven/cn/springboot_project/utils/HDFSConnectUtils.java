@@ -11,7 +11,7 @@ import java.net.URI;
 
 /**
  * @description:hdfs工具类
- * @author: bansheng
+ * @author: ArvinLi
  * @date: 2023/04/06 14:05
  **/
 @Component

@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * @description:处理操作信息的实体类
- * @author: bansheng
+ * @author: ArvinLi
  * @date: 2023/03/29 22:03
  **/
 

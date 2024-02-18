@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * @description:处理前端展示文件的路径
- * @author: bansheng
+ * @author: ArvinLi
  * @date: 2023/04/09 9:11
  **/
 @Data

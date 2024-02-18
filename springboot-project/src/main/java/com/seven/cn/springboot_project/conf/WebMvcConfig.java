@@ -6,7 +6,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
  * @description: 解决跨域问题
- * @author: bansheng
+ * @author: ArvinLi
  * @date: 2023/03/31 11:46
  **/
 @Configuration

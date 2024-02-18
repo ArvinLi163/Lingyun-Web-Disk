@@ -5,7 +5,7 @@ import lombok.*;
 
 /**
  * @description:存储文件信息的实体类
- * @author: bansheng
+ * @author: ArvinLi
  * @date: 2023/04/07 17:05
  **/
 @Data
